@@ -3,7 +3,7 @@ Welcome to MyProject!
 Author: Dipak Pokharel
 Intro: 
 
-MY name is Deepak Pokharel. I am from Nepal and I love to code a lot.
+ 
 
 In this project I have created a pdf generator with modern php code and hope you
 will enjoy it.
