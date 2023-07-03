@@ -3,7 +3,9 @@ Welcome to MyProject!
 Author: Dipak Pokharel
 Intro: 
 
- Hello, I am from your Heart.
+removed introduction
 
 In this project I have created a pdf generator with modern php code and hope you
 will enjoy it.
+
+Hello, from Nepal
