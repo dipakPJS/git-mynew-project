@@ -1,4 +1,6 @@
 Welcome to MyProject!
 
 Author: Dipak Pokharel
-FaceBook: @dipak
+Intro:
+
+My name is Dipak
