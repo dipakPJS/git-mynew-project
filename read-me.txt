@@ -1,6 +1,5 @@
 Welcome to MyProject!
 
-Author: Dipak Pokharel
-Intro:
+ Author: Dipak Pokharel
 
-My name is Dipak
+ MY name is Dipak Pokharel I am from Nepal. I love to code a lot.
