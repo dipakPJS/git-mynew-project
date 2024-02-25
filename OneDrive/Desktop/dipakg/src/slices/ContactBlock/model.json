@@ -1,0 +1,54 @@
+{
+  "id": "contact_block",
+  "type": "SharedSlice",
+  "name": "ContactBlock",
+  "description": "ContactBlock",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "heading": {
+          "type": "Text",
+          "config": {
+            "label": "Heading",
+            "placeholder": ""
+          }
+        },
+        "description": {
+          "type": "Text",
+          "config": {
+            "label": "Description",
+            "placeholder": ""
+          }
+        },
+        "contact_text": {
+          "type": "Text",
+          "config": {
+            "label": "Contact Text",
+            "placeholder": ""
+          }
+        },
+        "contact_email": {
+          "type": "Text",
+          "config": {
+            "label": "Contact Email",
+            "placeholder": ""
+          }
+        },
+        "contact_address": {
+          "type": "Text",
+          "config": {
+            "label": "Contact Address",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}
