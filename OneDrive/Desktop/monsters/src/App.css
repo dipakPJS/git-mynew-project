@@ -1,0 +1,35 @@
+/* google fonts cdn */
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+    to left,
+    rgb(67, 7, 82) 0%,
+    rgb(186, 1, 112) 100%
+  );
+  text-align: center;
+  color: white;
+}
+
+::-webkit-scrollbar{
+  width: 10px;
+  
+}
+
+::-webkit-scrollbar-thumb{
+  background: linear-gradient(to top, rgb(85, 0, 128), rgb(143, 1, 101));
+  border-radius: 50px;
+}
+
+.robot-title{
+  font-size: 76px;
+  font-weight: 600;
+  font-family: "Kalnia Glaze", serif;
+}
